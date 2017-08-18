@@ -237,7 +237,7 @@ class ViewTests(CMSTestCase):
             )
             self.assertContains(
                 response,
-                '<a class="cms-btn cms-btn-action cms-btn-switch-edit" href="/fr/?{}">Edit page</a>'.format(edit_on),
+                '<a class="cms-btn cms-btn-action cms-btn-switch-edit" href="/fr/?{}">Edit</a>'.format(edit_on),
                 count=1,
                 html=True,
             )
