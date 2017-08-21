@@ -1626,7 +1626,7 @@ msgstr ""
 
 #: templates/cms/toolbar/items/live_draft.html:6
 #| msgid "View published"
-msgid "View published page"
+msgid "View published"
 msgstr "הצג את הדף שפורסם"
 
 #: templates/cms/toolbar/items/live_draft.html:11
